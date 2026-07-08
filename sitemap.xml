@@ -3,124 +3,50 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://newarkeliteroofing.com/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <loc>https://columbusgaragedoorservice.com/</loc>
+    <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Service Pages -->
-  <url>
-    <loc>https://newarkeliteroofing.com/roof-replacement.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/roof-repair.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/storm-damage.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/metal-roofing.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/gutters.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <!-- Core service pages -->
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-spring-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-cable-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-opener-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-off-track.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-panel-replacement.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-replacement.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/new-garage-door-installation.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/commercial-garage-door-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/emergency-garage-door-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/24-hour-garage-door-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-insulation.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-opener-not-working.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/smart-garage-door-opener.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/overhead-door-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/roll-up-garage-door-repair.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Sub-Niche Pages -->
-  <url>
-    <loc>https://newarkeliteroofing.com/metal-roofing-granville.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <!-- City / location pages -->
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-dublin-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-westerville-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-hilliard-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-grove-city-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-gahanna-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-upper-arlington-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-reynoldsburg-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-lewis-center-ohio.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <!-- Location Pages -->
-  <url>
-    <loc>https://newarkeliteroofing.com/newark.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/licking-county.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/heath.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/granville.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/pataskala.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/hebron.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/johnstown.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/alexandria.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/etna.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/hanover.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/utica.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://newarkeliteroofing.com/kirkersville.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  <!-- Cost / guide pages -->
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-repair-cost.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-replacement-cost.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/garage-door-spring-replacement-cost.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/how-to-tell-if-garage-door-spring-is-broken.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/why-is-my-garage-door-not-closing.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/best-garage-door-brands.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Utility pages -->
+  <url><loc>https://columbusgaragedoorservice.com/about.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://columbusgaragedoorservice.com/contact.html</loc><lastmod>2026-07-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
 </urlset>
